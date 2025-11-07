@@ -14,24 +14,9 @@
     gap: 1em;
 }
 
-/* .carousel::-webkit-scrollbar {
+.carousel::-webkit-scrollbar {
     display: none;
-} */
-
-.carousel::-webkit-scrollbar-button {
-    content:'right';
-    border: none;
-    background-color: white;
-    font-family: "Outfit", sans-serif;
-    font-size: 3rem;
-    color: #000;
-    height: 60px;
-    width: 60px;
-    border-radius: 50px;
-    padding-bottom: .1em;
-    cursor: pointer;
 }
-
 
 .card {
     flex: 0 0 20em;
